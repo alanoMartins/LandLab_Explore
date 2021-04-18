@@ -3,6 +3,9 @@ testes_continentais/
 DEM/
 .idea/
 testes_dispersao/
+raster_dispersao/
+vtk_dispersao/
+
 
 
 # Byte-compiled / optimized / DLL files
