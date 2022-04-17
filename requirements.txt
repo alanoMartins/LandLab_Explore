@@ -1,0 +1,3 @@
+landlab==2.5.0
+matplotlib==3.5.1
+numpy==1.22.3
