@@ -5,7 +5,7 @@ DEM/
 testes_dispersao/
 raster_dispersao/
 vtk_dispersao/
-imagens/
+imagens.old/
 
 
 # Byte-compiled / optimized / DLL files
